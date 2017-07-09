@@ -23,12 +23,12 @@ body{
   top: 180px;
 }
 .main h1 {
-  color: #A01010;
+  color: rgb(3, 98, 198);
+  background-color: rgba(17, 191, 255, 0.6);
   text-transform: uppercase;
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
   font-size: 50px;
-  border:  1px solid red;
 }
 ul {
   padding: 0;
